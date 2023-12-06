@@ -1,0 +1,211 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.box {
+    width: 100%;
+    height: 70px;
+    background-color: #0a0b27;
+    margin: 0px;
+    position: fixed;
+    z-index: 2;
+}
+
+.cntr {
+    width: 1489px;
+    height: 70px;
+    background-color: #0a0b27;
+    margin: 0px 15px;
+    display: flex;
+}
+
+.cntr img {
+    padding: 25px 10px 19px;
+    width: 119px;
+    height: 26px;
+}
+
+.text {
+    width: 990px;
+    margin-left: 339px;
+    height: 40px;
+    padding-top: 22px;
+}
+
+.text ul {
+    display: flex;
+    list-style: none;
+    font-size: 16px;
+}
+
+.text-item {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: aliceblue;
+    height: 70px;
+    padding-left: 48px;
+    letter-spacing: 1px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.main {
+    width: 1519px;
+    height: 855px;
+}
+
+.main img {
+    width: 1519px;
+    height: 855px;
+}
+
+.rndum {
+    width: 1520px;
+    height: 870px;
+    display: flex;
+}
+
+.all {
+    width: 760px;
+    height: 870px;
+}
+
+.pamba {
+    width: 760px;
+    height: 870px;
+    background-color: #2fc1de;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pamba img {
+    width: 190px;
+    height: 529px;
+}
+
+.feel {
+    width: 456px;
+    height: 233px;
+    position: absolute;
+    text-align: center;
+}
+
+.feel h1 {
+    width: 456px;
+    height: 176px;
+    color: #812529;
+    font-size: 85px;
+    text-transform: capitalize;
+    z-index: 1;
+}
+
+.eyth {
+    width: 760px;
+    height: 870px;
+    background-color: #ffffff;
+    padding: 120px;
+    box-sizing: border-box;
+}
+
+.eyth .p1 {
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+    margin-bottom: 27px;
+    margin-top: 40px;
+    line-height: 29px;
+}
+
+.p2 {
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+    margin-bottom: 27px;
+    line-height: 29px;
+}
+
+.p3 {
+    display: flex;
+    font-size: 18px;
+    letter-spacing: 8px;
+}
+
+.smpic {
+    width: 1520px;
+    height: 855px;
+}
+
+.smpic img {
+    width: 1520px;
+    height: 855;
+}
+
+footer {
+    width: 1520px;
+    height: 267px;
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    display: flex;
+}
+
+.fi {
+    width: 474px;
+    height: 121px;
+    box-sizing: border-box;
+    padding: 0px 15px;
+}
+
+.fi p {
+    color: #0a0b27;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0px 0px 10px;
+    font-size: 14px;
+}
+
+.f2 {
+    width: 474px;
+    height: 151px;
+    box-sizing: border-box;
+    padding: 0px 15px;
+}
+
+.f2 p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0px 0px 10px;
+    font-size: 14px;
+    color: #0a0b27;
+    box-sizing: border-box;
+}
+
+.f2 a {
+    text-decoration: none;
+    color: #0a0b27;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    box-sizing: border-box;
+}
+
+.f3 {
+    width: 474px;
+    height: 168px;
+    box-sizing: border-box;
+    padding: 0px 15px;
+}
+
+.f3 p {
+    box-sizing: border-box;
+    padding: 0px 0px 10px;
+    font-size: 14px;
+    color: #0a0b27;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.f3 a {
+    text-decoration: none;
+    color: #0a0b27;
+    font-weight: 600;
+}
